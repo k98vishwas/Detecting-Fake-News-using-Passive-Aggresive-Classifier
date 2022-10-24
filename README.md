@@ -1,3 +1,3 @@
-# Detecting-Fake-News-using-Passive-Aggresive-Classifier
+# Detecting-Fake-News-using-Passive-Aggressive-Classifier
 
 People can get infected with fake news very quickly with misleading words and images and post them without any fact-checking. The social media life has been used to distribute counterfeit data, which has a significant negative influence on individual consumers and on a wider community. The fake news problem is tackled using a machine learning algorithm. Different classifiers are used for the purpose of identifying fake news. In this paper, Passive-Aggressive Classifier is implemented for this purpose. The approach is implemented on two datasets of fake and real news. After performing the experiment, it is observed that Passive-Aggressive Classifier provides an accuracy of 93.05%. The performance of the proposed model is compared with the existing methods. The Passive-Aggressive Classifier provides the best result compared to others.
